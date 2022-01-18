@@ -1,0 +1,14 @@
+name: teaching
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy 
+  - xarray
+  - dask
+  - netcdf4
+  - matplotlib
+  - cartopy
+  - seaborn
+  - colorcet
+  - ipykernel
